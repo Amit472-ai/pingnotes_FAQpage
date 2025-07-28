@@ -11,7 +11,7 @@ const FAQ = () => {
 
   const faqs = [
     { question: "What is PingNotes?", answer: "PingNotes is a cloud-based note organizer designed to help students save, organize, and share study materials easily." },
-    { question: "Who can use Amit?", answer: "PingNotes is for all students – school students, college students, and those preparing for competitive exams like JEE, NEET, UPSC, SSC, etc." },
+    { question: "Who can use PingNotes?", answer: "PingNotes is for all students – school students, college students, and those preparing for competitive exams like JEE, NEET, UPSC, SSC, etc." },
     { question: "Is PingNotes free to use?", answer: "Yes, PingNotes offers a free plan for students to get started easily." },
     { question: "Can I access PingNotes on mobile?", answer: "Yes, PingNotes is fully responsive and works on all smartphones and tablets." },
     { question: "Can I use PingNotes offline?", answer: "Currently, PingNotes requires an internet connection, but offline support is planned for future updates." },
